@@ -1,0 +1,142 @@
+Daragh Walshe B00064428
+IMM Project asset sources
+
+toxic barrell downloaded from
+http://www.unitymagic.com/shop/en/free-stuff.html?p=1
+
+Spider model
+Downloaded from the unity site
+
+
+2d toxic barrell sprite
+http://spriteseller.deviantart.com/art/toxic-barrel-186712380
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+SOUNDS
+
+https://www.freesound.org/browse/tags/spooky/?page=4#sound
+
+low grunt.wav
+deathd.wma
+deathr.wma
+door_opening.wma
+explosion3.wma
+low_grunt.wma
+stone3.wma
+grinding.wma
+
+
+
+//////////////////////////////////////////////////////////////////////////
+ICONS
+
+http://iconizer.net/en/search/No-license-filtering/0-128/1/heart
+heart.png (originally: pagkage_favourite)
+
+http://iconizer.net/en/search/No-license-filtering/0-128/1/hourglass
+hourglass.png
+
+http://www.freepsdfile.com/golden-key-icon-psd/
+Golden-Key-Icon-PSD.jpg
+
+http://simplyblessed.heartsdeesire.com/category/the-science-of-mind/
+key.jpg
+
+toxic_nuclear_barrel.png
+http://openclipart.org/image/2400px/svg_to_png/171552/toxic_nuclear_barrel.png
+
+toxic_barrel.png
+http://openclipart.org/image/300px/svg_to_png/81979/toxic_barrel.png
+
+BUTTONS
+play.png
+info.png
+back.png
+http://iconizer.net/en/search/1/collection:Bright
+
+wand.png
+http://iconizer.net/en/search/No-license-filtering/0-128/1/magic%20wand
+
+
+
+black-background-3.jpg
+http://thewallpaperszone.com/wp-content/uploads/2013/11/black-background-3-by-sjunod-on-deviantart-1007x755.jpg
+
+mushroom-forest.jpg
+http://images2.layoutsparks.com/1/228164/mushroom-forest-woods-cute.jpg
+
+
+mushroomBackground2.jpg
+http://cache.desktopnexus.com/thumbnails/1335245-bigthumbnail.jpg
+
+mushroomPixies.jpg
+http://abstract.desktopnexus.com/get/83495/?t=94u7vs653ev9lql7rhvmqg1u755353f0b5637a4
+
+Factory.png
+http://www.pixeljoint.com/pixelart/13147.htm
+
+///////////////////////////////////////////////////////
+
+FONTS
+xaltrn2U.ttf
+http://www.pia-frauss.de/fonts/xt.htm
+
+rumpelstiltskin
+http://www.fontspace.com/david-kerkhoff/rumpelstiltskin
+
+
+///////////////////////////////////////////////////////
+skull.png
+http://i32.photobucket.com/albums/d27/michelmars/di3alot-whole-skull.png
+
+Skull bw.png
+http://www.veryicon.com/icon/png/System/Sticker%20Pack%201/Skull%20bw.png
+
+happyFace.png
+https://www.iconfinder.com/icons/49415/emoticon_happiness_happy_happy_face_smile_icon#size=128
+
+
+
+
+
+You are nobbo the gnome, and soon you will be.. without a home.
+You awoke this morning to find the tree of life was sick. Someone
+has been dumping barrels of toxic waste in the forest.
+Find and destroy all the barrels with your magic, then seek out
+the source of this poison and stop it for good. You must hurry though,
+because time is running out, and if the tree dies ... so do you! 
+
+Destroy the toxic Barrels by shooting them with magic from your wand.
+Mushroom circles will replenish lost life, just stand inside one.
+watch out for nasty spiders, they like the toxic sludge and will bite.
+Keep an eye out for the secret cave on each level.
+
+
+Congratulations
+     You are such a Hero
+Get ready for the final stage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

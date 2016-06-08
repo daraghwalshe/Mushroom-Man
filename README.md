@@ -1,7 +1,7 @@
 # Mushroom-Man
 3-D Game built on Unity platform
 
-### College year 2 Interactive multi-media project  
+### College year 2 Interactive multi-media project  :mortar_board: :two:
 
 #### Directories Included:
 1. Unity_Project_Folder: This contains all the project files, game assets such as images, sound files, game logic scripts etc. The scripting ic C#.

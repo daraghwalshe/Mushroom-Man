@@ -11,5 +11,5 @@
 Note: Built using Unity v4.3.3f1
 
 <hr/>
-![alt app_image](https://github.com/daraghwalshe/Mushroom-Man/blob/master/screenshot.PNG)
-
+<img src="https://github.com/daraghwalshe/Mushroom-Man/blob/master/screenshot.PNG" width="900">
+<hr />
